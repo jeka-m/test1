@@ -1,0 +1,1 @@
+Welcome to the spring-social-vkontakte wiki!
