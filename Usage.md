@@ -1,3 +1,3 @@
-To install locally as maven artifact use:
+To install locally as maven artifact use command:
 
-gradle install
+`gradle install`
