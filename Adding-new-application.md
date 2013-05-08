@@ -17,7 +17,7 @@ Your app settings should look something like:
 
 Here you need to copy **Application ID** and **Secure key**.
 
-You also need to add toy your `/etc/hosts`
+You also need to add to your `/etc/hosts`
 
 `127.0.0.1      example.com`
 
