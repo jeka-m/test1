@@ -7,8 +7,8 @@ There you need to select **Standalone Application**
 
 ![create app](https://raw.github.com/wiki/vkolodrevskiy/spring-social-vkontakte/images/createApp.png)
 
-You will be asked for phone validation
+You will be asked for phone validation:
 
-![create app](https://raw.github.com/wiki/vkolodrevskiy/spring-social-vkontakte/images/phoneVerification.png)
+![create app](https://raw.github.com/wiki/vkolodrevskiy/spring-social-vkontakte/images/phoneVerif.png)
 
 To view list of application managed by you go to http://vk.com/apps?act=settings
