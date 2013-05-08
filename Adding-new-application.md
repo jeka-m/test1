@@ -11,4 +11,8 @@ You will be asked for phone validation:
 
 ![create app](https://raw.github.com/wiki/vkolodrevskiy/spring-social-vkontakte/images/phoneVerif.png)
 
+Your app settings should look something like:
+
+![create app](https://raw.github.com/wiki/vkolodrevskiy/spring-social-vkontakte/images/testAppConf.png)
+
 To view list of application managed by you go to http://vk.com/apps?act=settings
