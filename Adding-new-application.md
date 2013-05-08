@@ -21,4 +21,6 @@ You also need to add to your `/etc/hosts` (`c:\Windows\System32\drivers\etc\host
 
 `127.0.0.1      something.com`
 
+So when you will be testing your application on localhost do not forget to go to `http://something.com` instead of `http://localhost`
+
 To view list of application managed by you go to http://vk.com/apps?act=settings
