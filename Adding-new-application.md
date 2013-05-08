@@ -15,4 +15,6 @@ Your app settings should look something like:
 
 ![create app](https://raw.github.com/wiki/vkolodrevskiy/spring-social-vkontakte/images/testAppConf.png)
 
+Here you need to copy **Application ID** and **Secure key**.
+
 To view list of application managed by you go to http://vk.com/apps?act=settings
