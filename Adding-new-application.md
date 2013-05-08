@@ -1,4 +1,4 @@
-To use spring-social-vkontakte you need to get application key and and its secret code.
+To use spring-social-vkontakte you need create your application on http://vk.com and and get application key and and its secret code.
 
 ### Creating new application
 First go to http://vk.com/editapp?act=create
