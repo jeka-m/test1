@@ -17,4 +17,8 @@ Your app settings should look something like:
 
 Here you need to copy **Application ID** and **Secure key**.
 
+You also need to add to your `/etc/hosts`
+
+`127.0.0.1      something.com`
+
 To view list of application managed by you go to http://vk.com/apps?act=settings
