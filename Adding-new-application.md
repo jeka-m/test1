@@ -17,7 +17,7 @@ Your app settings should look something like:
 
 Here you need to copy **Application ID** and **Secure key**.
 
-You also need to add to your `/etc/hosts`
+You also need to add to your `/etc/hosts` (`c:\Windows\System32\drivers\etc\hosts` on windows machine)
 
 `127.0.0.1      something.com`
 
