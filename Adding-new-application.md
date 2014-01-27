@@ -3,17 +3,21 @@ To use **spring-social-vkontakte** you need create your application on http://vk
 ### Creating new application
 First go to http://vk.com/editapp?act=create
 
-There you need to select **Standalone Application**
+There you need to select **Website**
 
-![create app](https://raw.github.com/wiki/vkolodrevskiy/spring-social-vkontakte/images/createApp.png)
+![create app](https://raw.github.com/wiki/vkolodrevskiy/spring-social-vkontakte/images/createWebsiteApp.png)
 
 You will be asked for phone validation:
 
 ![create app](https://raw.github.com/wiki/vkolodrevskiy/spring-social-vkontakte/images/phoneVerif.png)
 
+You will be asked for confirmation code:
+
+![create app](https://raw.github.com/wiki/vkolodrevskiy/spring-social-vkontakte/images/phoneVerif2.png)
+
 Your app settings should look something like:
 
-![create app](https://raw.github.com/wiki/vkolodrevskiy/spring-social-vkontakte/images/testAppConf.png)
+![create app](https://raw.github.com/wiki/vkolodrevskiy/spring-social-vkontakte/images/testWebsiteAppConf.png)
 
 Here you need to copy **Application ID** and **Secure key**.
 
