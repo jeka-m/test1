@@ -2,6 +2,7 @@ To use it with Maven. Add to pom.xml
 
 Repository:
 ```xml
+<repositories>
         <!-- Fugru repository, contains spring-social-vkontakte -->
         <repository>
             <id>snapshot</id>
@@ -10,7 +11,7 @@ Repository:
             <releases><enabled>false</enabled></releases>
             <snapshots><enabled>true</enabled></snapshots>
         </repository>
-	</repositories>
+</repositories>
 ```
 Dependency:
 ```xml
@@ -18,6 +19,7 @@ Dependency:
         <dependency>
             <groupId>org.springframework.social</groupId>
             <artifactId>spring-social-vkontakte</artifactId>
-            <version>${org.springframework.social.vkontakte-version}</version>
+            <version>1.1.0.BUILD-SNAPSHOT</version>
         </dependency>
+</dependencies>
 ```
