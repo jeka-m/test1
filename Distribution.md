@@ -1,4 +1,4 @@
-To use it with Maven. Add to pom.xml
+To use it with Maven. Add to `pom.xml`
 
 Repository:
 ```xml
