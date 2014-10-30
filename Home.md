@@ -2,7 +2,7 @@ Welcome to the **spring-social-vkontakte** wiki!
 
 Here are few articles that would be useful:
 
-Project CI is located on https://fugru.ci.cloudbees.com/job/spring-social-vkontakte
+Project CI is located on http://fugru.com/jenkins/job/spring-social-vkontakte
 
 [Distribution](https://github.com/vkolodrevskiy/spring-social-vkontakte/wiki/Distribution)
 
