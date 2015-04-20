@@ -48,7 +48,7 @@
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
-            <artifactId>spring-webmvc</artifactId>
+            <artifactId>spring-webmvc</artifactId>org.springframework.social
             <version>4.1.6.RELEASE</version>
         </dependency>
         <dependency>
